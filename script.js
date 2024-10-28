@@ -1,6 +1,6 @@
 //your JS code here. If required.
-function functionName(){
+function AccioJob(){
 	alert(arguments.callee.name);
 }
 
-functionName();
+AccioJob();
